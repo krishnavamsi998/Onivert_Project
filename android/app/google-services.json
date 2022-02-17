@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333225367764",
+    "project_id": "onivert-bf7ae",
+    "storage_bucket": "onivert-bf7ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333225367764:android:b1961076160956f712c341",
+        "android_client_info": {
+          "package_name": "com.example.onivert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333225367764-ovpedchtvtc36c964jpmkju2j79fffip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfk6rSAfhfXASbZ0WyfxEX8Ar9-Uozfxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333225367764-ovpedchtvtc36c964jpmkju2j79fffip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
